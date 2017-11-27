@@ -1,9 +1,10 @@
-package com.ripal.kemchho
+package com.ripal.kemchho.Controller
 
 import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.ripal.kemchho.R
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
 

@@ -1,9 +1,10 @@
-package com.ripal.kemchho
+package com.ripal.kemchho.Controller
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.ripal.kemchho.R
 
 class LoginActivity : AppCompatActivity() {
 
